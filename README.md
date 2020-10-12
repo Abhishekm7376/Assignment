@@ -1,6 +1,6 @@
 # Assignment
 
-#Functionality -
+# Functionality -
 
 Inserting the form values into database and showing data in the table without refreshing the page.
 
@@ -15,10 +15,11 @@ Host - localhost
 
 
 
-#Table name - formdata 
+# Table name - formdata 
 
-Fields - id int(11) Primary AUTO_INCREMENT
+Fields - 
 
+             id int(11) Primary AUTO_INCREMENT
              name varchar(255)
 
              city varchar(100)
